@@ -10,19 +10,19 @@
   "website": "https://t.me/xnony",
   "success_url": "https://t.me/StarDevs",
   "env": {
-    "TOKEN": {
+    "TOKEN": { "1112347708452257834"
       "description": "Bot Token, Get It From @BotFather.",
       "value": ""
     },
-    "CHANNEL_ID": {
+    "CHANNEL_ID": { "https://discord.com/api/webhooks/1112347870176223272/XE-ssginVAWgoyXdnjAwspV6BGY2QLJyVuO4PhS2qA-X-yXsXk5u5h5faBH9or_D_nSh"
       "description": "Permanent Telegram Chat ID Of Your Force-Sub Channel.",
       "value": ""
     },
-    "CHANNEL_USERNAME": {
+    "CHANNEL_USERNAME": { "Costinha#9211"
       "description": "Username Of Your Force-Sub Channel.",
       "value": ""
     },
-    "ACC_NAME": {
+    "ACC_NAME": { "Costinha GEN"
       "description": "Name Of The Account The Bot Generates.",
       "value": ""
     },
